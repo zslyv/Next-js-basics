@@ -24,6 +24,17 @@ This project it's focused on learning Next Js with TypeScipt and then use that k
 - "loading.tsx" on the app directory.
 - "error.tsx" on different directories.
 - "global-error.tsx" on the app directory.
+- "route.tsx" on different directories.
+- "db.ts" on the "api" directory.
+
+### Server strategies
+- SSG
+- ISR
+- SSR
+- PPR
+
+### Others
+- Search engine optimization (SEO)
 
 > [!IMPORTANT]  
 > Interesteing topics to see later: Paralell routes, intercepting routes, localization routes
