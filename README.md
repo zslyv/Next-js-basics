@@ -12,6 +12,7 @@ This project it's focused on learning Next Js with TypeScipt and then use that k
 - Basic routing.
 - Nested routing.
 - Dynamic routing.
+- Route groups.
 
 ### Components
 - Server side components.
@@ -20,6 +21,12 @@ This project it's focused on learning Next Js with TypeScipt and then use that k
 ### Special files
 - "layout.tsx" on diferent directories.
 - "page.tsx" on different directories.
+- "loading.tsx" on the app directory.
+- "error.tsx" on different directories.
+- "global-error.tsx" on the app directory.
+
+> [!IMPORTANT]  
+> Interesteing topics to see later: Paralell routes, intercepting routes, localization routes
 
 ## Next up (When this project finishes).
 - Use of Three Js.
